@@ -129,7 +129,6 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
   - Capfile
   - Gemfile
   - Gruntfile.js
