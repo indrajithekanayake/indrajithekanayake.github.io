@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Indrajith, and I am an academic with a special interest in `Quality Education`. I have a background in Computer Science with a specialization in data and analytics. My teaching/research are focused on data and analytics for quality education. Thus I touch data, analytics, visualization, MOOCs, HCI, and AR/VR through my research.
+Hi! My name is Indrajith, and I am an academic with a special interest in **Quality Education**. I have a background in Computer Science with a specialization in data and analytics. My teaching/research are focused on data and analytics for quality education. Thus I touch data, analytics, visualization, MOOCs, HCI, and AR/VR through my research.
 
 Work and Research
 ======
@@ -20,4 +20,4 @@ I received my M.Sc in Big data analytics from Robert Gordon University and B.Sc-
 
 Intellectual Communities
 ------
-I like interdisciplinary work. My special interest in education allows me to be a disciplinary nomad because education is limitless. Sometimes I use data and analytics to improve Echonomic education and on some other occasions, I read about augmented reality for early childhood education. However, I spend a lot of my time in the fields of Data and Analytics which allows me to use qualitative, quantitative, and computational methods. I often use more statistical forms of analysis to contextualize and further support more qualitative approaches, frequently collaborating with people from other disciplines. I frequently speak at conferences and events, and I also consult with various groups, organizations, and companies about a wide range of topics.
+I like interdisciplinary work. My special interest in education allows me to be a disciplinary nomad. Education has no limits. Sometimes I use data and analytics to improve Echonomic education and on some other occasions, I read about augmented reality for early childhood education. However, I spend a lot of my time in the fields of Data and Analytics which allows me to use qualitative, quantitative, and computational methods. I often use more statistical forms of analysis to contextualize and further support more qualitative approaches, frequently collaborating with people from other disciplines. I frequently speak at conferences and events, and I also consult with various groups, organizations, and companies about a wide range of topics.
