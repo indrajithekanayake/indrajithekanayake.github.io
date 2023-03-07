@@ -1,11 +1,11 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
+modified: 2023-03-07
 ---
 
 {% include base_path %}
-{% include toc %}
+{::comment} {% include toc %} {:/comment}
 
 ## Privacy Policy
 
@@ -28,7 +28,7 @@ All of this information is not linked to anything that is personally identifiabl
 
 ### Cookies and Web Beacons
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
+When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to the next time you leave a comment.
 
 Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
 
