@@ -6,8 +6,12 @@ excerpt: 'In Sri Lanka, there are thousands of Cyberattacks happening through th
 date: 2019-04-29
 venue: 'SSRN'
 paperurl: 
-citation: ''
+citation: 
 ---
 In Sri Lanka, there are thousands of Cyberattacks happening through the internet, but the investigation is quite rare. Therefore, this research was conducted to identify the loopholes and suggest more practical aspects of the investigation.
 
-Recommended citation: ``
+Recommended citation :
+
+```bash
+
+```

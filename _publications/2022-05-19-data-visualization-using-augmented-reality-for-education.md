@@ -6,10 +6,14 @@ excerpt: 'Current education systems use data visualization to present the data i
 date: 2022-05-19
 venue: '2022 7th International Conference on Business and Industrial Research (ICBIR)'
 paperurl: 'http://indrajithekanayake.github.io/files/2022-05-19-data-visualization-using-augmented-reality-for-education.pdf'
-citation: 'I. Ekanayake and S. Gayanika, "Data Visualization Using Augmented Reality for Education: A Systematic Review," 2022 7th International Conference on Business and Industrial Research (ICBIR), Bangkok, Thailand, 2022, pp. 533-537, doi: 10.1109/ICBIR54589.2022.9786403.'
+citation:
 ---
 Current education systems use data visualization to present the data in a more comprehensible format. Augmented data visualization is an extended version to present the data in a 2D or 3D form in our field of vision. This study conducted a systematic literature review to identify the current state of the art research in augmented reality and potential future research. Research paid especial attention towards the effective use of augmented reality for data visualization to offer a better pedagogical experience. A total of 39 studies have been filtered between 2017 to 2021 from two recognized databases, IEEE Xplore and ScienceDirect. Three research questions are designed for further analysis. Finally, the paper concludes with a future projection and uncovers research gaps that need to be addressed.
 
 [Download paper here](http://indrajithekanayake.github.io/files/2022-05-19-data-visualization-using-augmented-reality-for-education.pdf)
 
-Recommended citation: `I. Ekanayake and S. Gayanika, "Data Visualization Using Augmented Reality for Education: A Systematic Review," 2022 7th International Conference on Business and Industrial Research (ICBIR), Bangkok, Thailand, 2022, pp. 533-537, doi: 10.1109/ICBIR54589.2022.9786403.`
+Recommended citation :
+
+```bash
+I. Ekanayake and S. Gayanika, "Data Visualization Using Augmented Reality for Education: A Systematic Review," 2022 7th International Conference on Business and Industrial Research (ICBIR), Bangkok, Thailand, 2022, pp. 533-537, doi: 10.1109/ICBIR54589.2022.9786403.
+```
