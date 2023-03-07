@@ -12,6 +12,4 @@ In Sri Lanka, there are thousands of Cyberattacks happening through the internet
 
 Recommended citation :
 
-```bash
-
-```
+``

@@ -14,6 +14,4 @@ Current education systems use data visualization to present the data in a more c
 
 Recommended citation :
 
-```bash
-I. Ekanayake and S. Gayanika, "Data Visualization Using Augmented Reality for Education: A Systematic Review," 2022 7th International Conference on Business and Industrial Research (ICBIR), Bangkok, Thailand, 2022, pp. 533-537, doi: 10.1109/ICBIR54589.2022.9786403.
-```
+`I. Ekanayake and S. Gayanika, "Data Visualization Using Augmented Reality for Education: A Systematic Review," 2022 7th International Conference on Business and Industrial Research (ICBIR), Bangkok, Thailand, 2022, pp. 533-537, doi: 10.1109/ICBIR54589.2022.9786403.`
