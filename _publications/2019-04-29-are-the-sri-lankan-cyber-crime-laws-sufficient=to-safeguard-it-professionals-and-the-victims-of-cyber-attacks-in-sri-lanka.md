@@ -8,7 +8,7 @@ venue: 'SSRN'
 paperurl: 
 citation: 
 ---
-Abstract: In Sri Lanka, there are thousands of Cyberattacks happening through the internet, but the investigation is quite rare. Therefore, this research was conducted to identify the loopholes and suggest more practical aspects of the investigation.
+**Abstract:** In Sri Lanka, there are thousands of Cyberattacks happening through the internet, but the investigation is quite rare. Therefore, this research was conducted to identify the loopholes and suggest more practical aspects of the investigation.
 
 Recommended citation :
 
