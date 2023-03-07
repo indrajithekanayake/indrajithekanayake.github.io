@@ -5,7 +5,7 @@ modified: 2023-03-07
 ---
 
 {% include base_path %}
-{% include toc %} 
+{% include toc %}
 
 ## Privacy Policy
 
