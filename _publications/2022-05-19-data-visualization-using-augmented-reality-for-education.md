@@ -24,5 +24,5 @@ If the embedded PDF below does not load, you can <u><a href="https://indrajithek
 
 Event Photographs:
 <p float="left">
-  <img src="../images/2022-05-19-data-visualization-using-augmented-reality-for-education.jpg" />
+  <img src="https://indrajithekanayake.github.io/images/2022-05-19-data-visualization-using-augmented-reality-for-education.jpg" />
 </p>
