@@ -1,5 +1,5 @@
 ---
-title: "Invited speech"
+title: "Invited speech - Wycherley International School"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-invited-speech
