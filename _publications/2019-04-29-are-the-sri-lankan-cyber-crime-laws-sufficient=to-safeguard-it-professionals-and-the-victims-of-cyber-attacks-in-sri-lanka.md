@@ -12,4 +12,4 @@ citation:
 
 Recommended citation :
 
-``
+`Ekanayake, Indrajith, Are the Sri Lankan Cyber-Crime Laws Sufficient to Safeguard IT Professionals and the Victims of Cyber-Attacks in Sri Lanka? (April 29, 2019). Available at SSRN: https://ssrn.com/abstract=3379904 or http://dx.doi.org/10.2139/ssrn.3379904`
