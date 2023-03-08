@@ -15,3 +15,14 @@ citation:
 Recommended citation :
 
 `I. Ekanayake and S. Gayanika, "Data Visualization Using Augmented Reality for Education: A Systematic Review," 2022 7th International Conference on Business and Industrial Research (ICBIR), Bangkok, Thailand, 2022, pp. 533-537, doi: 10.1109/ICBIR54589.2022.9786403.`
+
+Presentation:
+If the embedded PDF below does not load, you can <u><a href="https://indrajithekanayake.github.io/files/2022-05-19-data-visualization-using-augmented-reality-for-education.pdf">download it here.</a></u>
+<br/>
+
+<embed src="https://indrajithekanayake.github.io/files/2022-05-19-data-visualization-using-augmented-reality-for-education.pdf" type="application/pdf" width="100%" />
+
+Event Photographs:
+<p float="left">
+  <img src="../images/2022-05-19-data-visualization-using-augmented-reality-for-education.jpg" />
+</p>
